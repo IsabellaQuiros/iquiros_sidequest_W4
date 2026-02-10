@@ -1,19 +1,19 @@
 ## Project Title
 
-GBDA302 Week 4 Example 5: Blob Platformer (JSON + Classes)
+GBDA302 Week 4 Side Quest 4
 
 ---
 
 ## Authors
 
-Karen Cochrane and David Han
+Karen Cochrane, David Han, and Isabella Quiros
 
 ---
 
 ## Description
 
 This matches the structure of the original blob sketch from Week 2 but moves
-details into classes.
+details into classes. The levels have been adjusted so that the platforms in the game world appear like steps.
 
 ---
 
@@ -38,5 +38,6 @@ N/A
 ## GenAI
 
 The code was written by Dr. Karen Cochrane and David Han but they used GenAI to write the comments.
+Isabella Quiros did not use GenAI to make any edits.
 
 ---
